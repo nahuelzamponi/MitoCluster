@@ -1,5 +1,5 @@
 
-
+%build CCDF from mitochondrial network images
 
 
 image='path to image';
