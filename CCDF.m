@@ -1,5 +1,6 @@
 
 %build CCDF from mitochondrial network images
+%uses cumhist2.m
 
 
 image='path to image';
